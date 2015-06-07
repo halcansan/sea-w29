@@ -79,3 +79,12 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 12. Push the branch to the `origin` remote on GitHub
 
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
+
+What contributed most to your learning in today's workshop?
+The use of visuals, especially the workflow diagrams, was especially useful.
+
+What was the least helpful to your learning?
+We spent a long time going over the prework and downloading software. That time could have been used more wisely.
+
+Would you recommend this workshop to a friend? (Rate on a scale of 0-10).
+I'd give this workshop an 8/10. The information was useful and its practical applications were made clear. (A big pet peeve I have about web development courses is that the "how" is often over-emphasized at the expense of the "why.") As I mentioned in my response to the previous question, however, it seemed like there was a lot of down-time while some participants were downloading software, and we could have covered more material during that time.
